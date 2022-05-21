@@ -33,7 +33,7 @@ int main()
                 }
             }
         }
-        cout<<"LCA is :"<<dp[n][m]<<"\n";
+        cout<<"LCS is :"<<dp[n][m]<<"\n";
     }
     return 0;
 }
